@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(to left, rgb(75, 11, 128), rgb(150, 53, 89));
+}
+.overallcont{
+    border: 1px solid rgb(255, 255, 255);
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.scorecard {
+    font-size: 50px;
+}
+.newgamebtn{
+    background-image: linear-gradient(to left, rgb(163, 97, 218), rgb(240, 111, 158));
+
+}
+.endgamebtn{
+    background-image: linear-gradient(to left, rgb(105, 80, 125), rgb(203, 103, 140));
+}
+
+p{
+   font-size: 40px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.highlight{
+    border: 5px solid rgb(255, 255, 255);
+}
