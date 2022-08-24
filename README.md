@@ -1,4 +1,4 @@
-# Frontend Mentor - Clipboard landing page solution
+# BasketBall Scoreboard
 
 This is a solution to the [BasketBall Scoreboard Project](https://scrimba.com/learn/learnjavascript/solo-project-basketball-scoreboard-cz9adVfP). 
 
